@@ -4,6 +4,8 @@ Esse é um projeto de teste, feito para expandir as habilidades de programação
 
 Esta agenda deve ser separada em alguns objetos principais que serão descritos como classes com seus métodos e atributos.
 
-## Pessoa
+## Classe Pessoa
 
-A classe pessoa
+### Atributos:
+- 
+- 
