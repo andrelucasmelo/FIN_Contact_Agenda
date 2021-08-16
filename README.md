@@ -6,6 +6,26 @@ Esta agenda deve ser separada em alguns objetos principais que serão descritos 
 
 ## Classe Pessoa
 
-### Atributos:
+#### Atributos:
+- Nome (str)
+- Endereço (list Class Endereço()) 
+- Telefone (list Class Telefone()) 
+- E-mail (list Class Email()) 
+- Rede Social (list Class SocialNetWork()) 
+- Data Nascimento (str)
+
+#### Metodos:
 - 
+
+## Classe Empresa
+
+#### Atributos:
+- Nome (str)
+- Endereço (list Class Endereço()) 
+- Telefone (list Class Telefone()) 
+- E-mail (list Class Email()) 
+- Rede Social (list Class SocialNetWork()) 
+- CNPJ (str)
+
+#### Metodos:
 - 
