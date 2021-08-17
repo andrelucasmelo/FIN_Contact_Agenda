@@ -4,7 +4,8 @@ Esse é um projeto de teste, feito para expandir as habilidades de programação
 
 Esta agenda deve ser separada em alguns objetos principais que serão descritos como classes com seus métodos e atributos.
 
-## Classe Pessoa
+## Classes do Código
+### Classe Pessoa
 
 #### Atributos:
 - Nome (str)
@@ -20,7 +21,7 @@ Esta agenda deve ser separada em alguns objetos principais que serão descritos 
 - newPessoa - Cria uma nova pessoa, retornando seus dados.
 - removePessoa - Remove uma pessoa com base no seu Id.
 
-## Classe Empresa
+### Classe Empresa
 
 #### Atributos:
 - Nome (str)
